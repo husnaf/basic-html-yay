@@ -1,0 +1,1 @@
+Hello there! You have found my first independent project. I created it on August 17, 2018. 
